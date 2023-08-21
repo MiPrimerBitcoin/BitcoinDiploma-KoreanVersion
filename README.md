@@ -1,5 +1,5 @@
 # BitcoinDiploma-KoreanVersion
-This is the version of our diploma in English
+This is the version of our diploma in Korean
 
 Mi Primer Bitcoin/ My First Bitcoin has created this work and has made it freely available under Creative Commons. This work is licensed under Attribution--ShareAlike 4.0 International Mi Primer 
 
